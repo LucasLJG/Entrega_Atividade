@@ -1,0 +1,9 @@
+Comandos usados no git:
+
+1º: Criação de uma pasta com o comando mkdir.
+2º Inicialização do repositório com o comando git init.
+3º Uso do comando git config global para sincronizando das contas com o devido usuário corretamente.
+4º Inserindo um arquivo txt ( ao qual está sendo usado para escrever esse relatório nesse exato momento) com o comando touch relatorio.txt.
+5º Git Status para verificar o estado do repositório no atual momento.
+6º
+

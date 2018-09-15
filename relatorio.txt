@@ -11,6 +11,7 @@ Comandos usados no git:
 9º Git Status para verificar se os arquivos foram adicionados corretamente.
 10º Git add relatório.txt no repositório local.
 11º Git Remote Add Origin Master para mapeamento (apontar) no repositório remoto no GitHub.
+12º Git Push para o envio dos arquivos no repositório criado remotamente.
 
  
 

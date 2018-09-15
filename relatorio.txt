@@ -1,9 +1,17 @@
 Comandos usados no git:
 
-1º: Criação de uma pasta com o comando mkdir.
-2º Inicialização do repositório com o comando git init.
-3º Uso do comando git config global para sincronizando das contas com o devido usuário corretamente.
-4º Inserindo um arquivo txt ( ao qual está sendo usado para escrever esse relatório nesse exato momento) com o comando touch relatorio.txt.
-5º Git Status para verificar o estado do repositório no atual momento.
-6º
+1º:  Criação de uma pasta com o comando mkdir.
+2º  Inicialização do repositório com o comando git init.
+3º  Uso do comando git config global para sincronizando das contas com o devido usuário corretamente.
+4º  Inserindo um arquivo txt ( ao qual está sendo usado para escrever esse relatório nesse exato momento) com o comando touch relatorio.txt.
+5º  Git Status para verificar o estado do repositório no atual momento.
+6º Git Add para adicionar o arquivo no repositório.
+7º Git Commit-m para descrever a mensagem de adicionar arquivo.
+8º Git Add. para a pasta chamada projeto_site2 dentro do repositório (ela foi movida para o repositório local Projeto).
+9º Git Status para verificar se os arquivos foram adicionados corretamente.
+10º Git add relatório.txt no repositório local.
+11º Git Remote Add Origin Master para mapeamento (apontar) no repositório remoto no GitHub.
+
+ 
+
 

@@ -1406,7 +1406,7 @@
 	body {
 		background-size: cover;
 		background-position: top center;
-		background-image: linear-gradient(mediumpurple, purple, rebeccapurple);
+		background-image: linear-gradient(rgb(0, 125, 255), rgb(19, 0, 171), rgb(0, 16, 102));
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1910,11 +1910,11 @@ strong, b {
  	}
  	100% {
  	right: 0px;
- 	} 
+ 	}
  }
  #thanos1 {
  	animation-name: thanos;
- 	animation-duration: 2s; 
+ 	animation-duration: 2s;
  	position: relative;
  	transform: scale(-0.7,1.5,0.8);
  }
@@ -2537,7 +2537,7 @@ strong, b {
 		    position: absolute;
 		    top: 20px;
 		    left: -20px;
-		   
+
 
 
 		}
@@ -2547,28 +2547,17 @@ strong, b {
 		 	background-color: #dddddddd
 		 	padding: 10px;
 		 	margin: 2px;
-		 	
+
 		}
 
 		nav#menu h1 {
 			display: none;
-			
+
 		}
 
-		
+
 		header#cabecalho h1 {
 			border-bottom: 1px #606060 solid;
 			height: 100px;
 
 		}
-
-
-
-
-
-		 
-		
-
-
-
-

@@ -1406,7 +1406,7 @@
 	body {
 		background-size: cover;
 		background-position: top center;
-		background-image: linear-gradient(rgb(0, 125, 255), rgb(19, 0, 171), rgb(0, 16, 102));
+		background-image: linear-gradient(mediumpurple, purple, rebeccapurple);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {

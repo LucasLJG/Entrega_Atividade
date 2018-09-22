@@ -16,6 +16,19 @@ Comandos usados no git:
 14º Git Add. para adicionar todos os arquivos situados numa mesma pasta, devido a modificações de css na página.
 15º Git commit -m demarcando a mensagem de alteração dos arquivos adicionados.
 16º Git push origin master para envio dos arquivos no repositório remoto do Git Hub.
+17º Git clone para baixar os arquivos no repositório local.
+18º Git Add Projeto_Site2 devido a alterações pedida pelo cliente no gradiente background usando CSS.
+19º Git Commit -m para descrever as alterações solicitadas pelo cliente.
+20º Git Push para envio dos arquivos no repositório remoto.
+21º Git Add Projeto_Site2 devido a alterações no código CSS.
+22º Git Git Commit-m desfazendo as alterações, pois o cliente rejeitou as alterações realizadas no gradiente da página.
+23º Git Push para envio dos arquivos para o repositório remoto.
+24º Git Status no repositório local para verificação do estado.
+25º Git Add relatorio.txt.
+26º Git commit -m "Acrescentando comandos"
+27º Git Push para envio dos arquivos.
+
+OBS: Houve durante o processo de realização da atividade vários comandos repetidos como Git Status,Git Push que foram omitidos, em parte, para não ficar muito repetitivo os comandos descritos neste relatório.
 
  
 
